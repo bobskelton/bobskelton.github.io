@@ -1,0 +1,22 @@
+jemdoc.py index 
+echo Generating index.html
+
+jemdoc.py bio
+echo Generating bio.html
+
+jemdoc.py awards
+echo Generating awards.html
+
+jemdoc.py books
+echo Generating books.html
+
+jemdoc.py papers
+echo Generating papers.html
+
+jemdoc.py students
+echo Generating students.html
+
+jemdoc.py projects
+echo Generating projects.html
+
+echo Done.
